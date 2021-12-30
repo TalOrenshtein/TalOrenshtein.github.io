@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 20217-2022: B.Sc. in Computer Science at The Open University, graduating soon(2 courses
+left, Average score: 80).
+* 2016: Bagrut at Computer Science: I Completed the Bagrut on my own.
+
+Theoretical knowledge
+======
+Algorithms, data structures, math ,AI, multithreading, operation systems, data mining, computer
+networking, database systems, software vulnerability, probability and more.
+
+Programming languages
+======
+Java and Swing, C, Python3 and SQLite3, C++, PostgreSQL, NodeJs.
+  
+Work environments and softwares
+======
+Eclipse, Visual Studio Code, Windows, Unix, Office.3
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Worked at IBM as a technical support: I was dealing with customers; diagnosed
+problems and fixed them remotely.
+* 2016-2017: Taught Java to high school and college students
+* 2013-2014: PC Technician: I repaired hardware and software problems, Install OS systems
+and drivers, solved issues via remote control, etc.
   
-Skills
+Israel Defense Forces (2014-2017)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I was a soldier at MLRS, a battalion at Artillery Corps. Due to medical issues, I reassigned to a
+different job as office administrator
   
-Talks
+Hobbies
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+In my free time, I enjoy hiking, gaming, researching, expanding my knowledge, and tinkering with
+electronic devices.
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Hebrew ,English.

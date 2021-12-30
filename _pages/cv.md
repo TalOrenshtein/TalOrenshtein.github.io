@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 20217-2022: B.Sc. in Computer Science at The Open University, graduating soon(2 courses
+* 2017-2022: B.Sc. in Computer Science at The Open University, graduating soon(2 courses
 left, Average score: 80).
 * 2016: Bagrut at Computer Science: I Completed the Bagrut on my own.
 

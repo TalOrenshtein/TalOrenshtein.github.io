@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome - Tal Orenshtein"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -26,7 +26,7 @@ Java and Swing, C, Python3 and SQLite3, C++, PostgreSQL, NodeJs.
   
 Work environments and softwares
 ======
-Eclipse, Visual Studio Code, Windows, Unix, Office.3
+Eclipse, Visual Studio Code, Windows, Unix, Office.
 
 Work experience
 ======

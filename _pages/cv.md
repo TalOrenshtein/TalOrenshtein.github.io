@@ -18,6 +18,7 @@ left, Average score: 81).
 Practical knowledge
 ======
 Algorithms, data structures, multithreading, computer networking software vulnerability,database systems.
+
 Programming languages
 ======
 Java and Swing, C++, Python3 and SQLite3, C, PostgreSQL, Javascript, NodeJS and react.

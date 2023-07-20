@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-* 2017-2023: B.Sc. in Computer Science at The Open University, graduating soon(2 courses
-left, Average score: 81).
+* 2017-2023: B.Sc. in Computer Science at The Open University, graduating soon(Average score: 81).
 * 2016: Bagrut at Computer Science: I Completed the Bagrut on my own.
 
 Practical knowledge
 ======
-Algorithms, data structures, multithreading, computer networking software vulnerability,database systems.
+Algorithms, data structures, multithreading, defensive programming ,networking, database systems.
 
 Programming languages
 ======
-Java and Swing, C++, Python3 and SQLite3, C, PostgreSQL, Javascript, NodeJS and react.
+Java and Swing, C++, Python3 and SQLite3, C, PostgreSQL.
   
 Work environments and softwares
 ======

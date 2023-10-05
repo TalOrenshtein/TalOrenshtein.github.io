@@ -23,9 +23,9 @@ Algorithms, data structures, multithreading, defensive programming ,networking, 
 Programming languages
 ======
 * Java: I made various software using Java, learned it while both doing my Bargut certificate and as
-part of my academic studies. Specifically, I took 2 courses that was about Java, Introduction (grade:90) and Advanced (grade:87). One of the projects I made while taking the advanced course, that uses various programming concepts like advanced multi-threading and networking concepts, is presented in my portfolio.
-* PostgreSQL: One of the academic courses I chose to take was about PostgreSQL (grade 89). I learned to use complex, nested queries to extract data as needed.
-* C++, Python and SQLite3: I learned C++ and Python while taking a course about defensive programming (grade:87) as part of my academic studies, I self taught both while using online resources, books and the official docs. As part of the course, I made a server-client project, I used C++ at the client side and Python and SQLite3 at the server side, while, learning SQLite3 on the fly while taking advantage of my PostgreSQL skills I already had. This project, that uses various concepts including defensive programming and networking concepts, is presented in my portfolio.
+part of my academic studies. Specifically, I took 2 courses that were about Java, Introduction and Advanced. One of the projects I made while taking the advanced course, that uses various programming concepts like advanced multi-threading and networking concepts, is presented in my portfolio.
+* PostgreSQL: One of the academic courses I chose to take was about PostgreSQL. I learned to use complex, nested queries to extract data as needed.
+* C++, Python and SQLite3: I learned C++ and Python while taking a course about defensive programming as part of my academic studies, I self taught both while using online resources, books and the official docs. As part of the course, I made a server-client project, I used C++ at the client side and Python and SQLite3 at the server side, while, learning SQLite3 on the fly while taking advantage of my PostgreSQL skills I already had. This project, that uses various concepts including defensive programming and networking concepts, is presented in my portfolio.
 
 Work experience
 ======

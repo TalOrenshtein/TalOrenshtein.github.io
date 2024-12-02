@@ -9,34 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* 2017-2023: B.Sc. in Computer Science at The Open University, graduating soon (Average score:
-81).
-* 2016: Bagrut at Computer Science: My friend and I studied together to extend our Bagrut certificate
-on our free time, while we served at the army.
-
-Practical knowledge
-======
-Algorithms, data structures, multithreading, defensive programming ,networking, database systems.
-
-Programming languages
-======
-* Java: I made various software using Java, learned it while both doing my Bargut certificate and as
-part of my academic studies. Specifically, I took 2 courses that were about Java, Introduction and Advanced. One of the projects I made while taking the advanced course, that uses various programming concepts like advanced multi-threading and networking concepts, is presented in my portfolio.
-* PostgreSQL: One of the academic courses I chose to take was about PostgreSQL. I learned to use complex, nested queries to extract data as needed.
-* C++, Python and SQLite3: I learned C++ and Python while taking a course about defensive programming as part of my academic studies, I self taught both while using online resources, books and the official docs. As part of the course, I made a server-client project, I used C++ at the client side and Python and SQLite3 at the server side, while, learning SQLite3 on the fly while taking advantage of my PostgreSQL skills I already had. This project, that uses various concepts including defensive programming and networking concepts, is presented in my portfolio.
-
 Work experience
 ======
-* 2017-2018: Worked at IBM at the Lenovo department as a technical support: We dealt with a large customer base; I diagnosed problems with both my existing knowledge and researching on the fly. Then, depending on the problem, I fixed it by giving instructions or using remote control tools. Also, I made followup calls to costumers as needed, usually when the fix included steps that the costumer needed to follow, when either a step took some time to perform, or the consumer ask to continue the procedure at a more convenient time for them.
-* 2016-2022 (During my degree): I taught Java to high school and college students: Usually I had to start from the very basic starting point: types, conditions and loops, then continue with Object Oriented Programming principles, both the basics and more advanced topics like Polymorphism, and ended up with teaching recursion and efficiency in both principles and practice. Sometimes I also taught generics concepts, depends on the student’s needs.
-* 2013-2014- PC Technician: I fixed hardware and software problems, Install OSs and drivers, solved issues both on site and via remote control.
+* <ins>2024-Present: Integrator and system administrator at Neptucom:</ins> I’m working with different systems and their REST APIs to make creative solutions that are improving the productivity and the efficiency of the company, while, designing said solutions to be easily maintainable, versatile and general purpose as possible. I’m using MAKE.com platform to develop and maintain automations and solutions that integrate between multiple platform, and developing software that uses data from various of Neptucom’s vendors; and works coupled to the CRM and other platforms that Neptucom uses. I’m also the designer and maintainer of Neptucom’s CRM and come up with upgrades that can improve our teams’ effectiveness and quality of life. A few examples of my work are: I Designed and implemented an AI based chat-bot for Neptucom’s customer support WhatsApp, for this project I developed a full-fledged API that enables the AI agent to interact with various of Neptucom’s services; This API is designed to be dockerized via docker composed, and is deployed on AWS. A full scale project that map, organize and manage the clients’ statuses, and sync the findings to various of Neptucom’s platforms. Designed dashboards that uses CRM’s data to display multiple statistical views and findings. Developed a solution that takes raw streams of data and analyze to show various statistical findings. Most of my work is independent; which means that I’m planning, designing and implementing the solutions by myself (and might come up with the feature concept itself). Furthermore, I help deciding and designing the overall structure and workflow of the technological solutions that we use, and which solution to use in the first place.
   
+* <ins>2016-2022 (During my degree):</ins> I taught Java to students in 1 on 1 style sessions, covering both basic and advanced materials.
+
+Education
+======
+* 2024: B.Sc in Computer Science at The Open University. graduating soon. Average: 81
+* 2016: Bagrut at Computer Science: Self taught Java and extended my Bagrut certificates on my free time.
+
+Languages, technologies and architectures
+======
+Java, Python, C++, Dart, SQL, Spring, Flutter, Linux, Docker + compose, Kubernetes, Multi threading, Networking, AWS.
+
+Showcase projects
+======
+* <ins>SilenceRemover app written with Dart and Flutter:</ins> An Android app that let the user record audio, detect the silent parts, trim them and output both a trimmed version of the audio file, and a list of individual trimmed parts marked by time of occurrence. The app supports adding persistent notes to folders and files, and resuming a processing if the app detects that the processing didn’t complete successfully. [Source code](https://github.com/TalOrenshtein/Silence_Remover)
+* <ins>MessageU:</ins> Server Client Instant messaging software: Messaging software that supports end-to-end encrypted messages. The server is written with Python, and the Client is written with C++ and uses CryptoPP for encryption. [Source code](https://github.com/TalOrenshtein/MessageU)
+* <ins>Server Client Chatroom software written with Java and Spring:</ins> A multiple user chatroom that’s using multi-threading and networking concepts and supporting notification of users in case that a user join/leave, unique ID generation, server logging, online count and user list displaying and more. [Source code](https://github.com/TalOrenshtein/Chatroom)
+
 Israel Defense Forces (2014-2017)
 ======
 I was a soldier at the Artillery Corps. Due to medical issues, I reassigned to a different job as office administrator, Where I managed my commander's schedule.
-
-Languages
-======
-Hebrew: native, English: 90% at both talking and writing\reading.
